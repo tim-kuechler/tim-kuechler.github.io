@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "B.Sc."
 title_separator          : "-"
 name                     : &name "Tim Kuechler"
 description              : &description"Software Engeneering Enthusiast"
