@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Tim Küchler"
-title_separator          : ""
+title_separator          : "-"
 name                     : &name "Tim Küchler"
 description              : &description "Software Engeneering Enthusiast"
 url                      : https://tim-kuechler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
